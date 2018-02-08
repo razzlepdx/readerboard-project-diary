@@ -22,8 +22,12 @@
 ### Resources I found:
 
     other hackbright projects using OAuth:
+    [Fuder](https://github.com/aninahpets/Fuder)
+    [RideThrift](https://github.com/nnegri/RideThrift)
 
     2 OAuth Libraries:
+    [oauth2](https://github.com/joestump/python-oauth2)
+    [requests-oauthlib](https://github.com/requests/requests-oauthlib)
 
 
 ### Other notes:
